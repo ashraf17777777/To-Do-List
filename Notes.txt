@@ -1,0 +1,10 @@
+outline : none          to hide the border of the input
+
+
+if you want to center a content inside box , make line height = width of it ex: height = 40px       line-height : 40px
+
+
+word / excel / access / powerpoint /outlook
+
+how to get value of something : variableName.value
+
